@@ -2,18 +2,30 @@
 <%@ page session="true" contentType="text/html; charset=UTF-8"%>
 <html>
 <head>
+<link rel="shortcut icon" href="<c:url value='/images/favicon.png'/>">
+<link rel="icon" href="<<c:url value='/images/favicon.png'/>>">
 <title>야관문</title>
-<style>
-</style>
 </head>
 <body>
 	<jsp:include page="./nav.jsp" flush="true" />
 
 	<div class="container" align="center">
 		<p style="font-size: 4rem; font-weight: 700;" class="font-shadow">
+<<<<<<< HEAD
 			After <span style="color: red;"> Hell <i class="fas fa-bomb"></i>
 			</span> , The <span style="color: #31B2A1;"> Doctor <i
 				class="fas fa-user-nurse"></i>
+=======
+			After
+			<span style="color: red;">
+				Hell
+				<i class="fas fa-bomb"></i>
+			</span>
+			, The
+			<span style="color: #31B2A1;">
+				Doctor
+				<i class="fas fa-user-nurse"></i>
+>>>>>>> upstream/master
 			</span>
 		</p>
 		<img src="<c:url value='/images/home/donkey.gif'/>"

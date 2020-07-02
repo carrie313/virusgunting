@@ -1,0 +1,9 @@
+diff a/src/main/webapp/WEB-INF/resources/css/main.css b/src/main/webapp/WEB-INF/resources/css/main.css	(rejected hunks)
+@@ -3,6 +3,7 @@
+ @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700&display=swap');
+ 
+ @import url('https://fonts.googleapis.com/css2?family=Do+Hyeon&display=swap');
++@import url('https://fonts.googleapis.com/css2?family=Yellowtail&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Yellowtail&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap');
+ 
