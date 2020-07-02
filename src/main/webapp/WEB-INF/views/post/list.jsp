@@ -9,12 +9,10 @@
 </head>
 <body>
 	<jsp:include page="../nav.jsp" flush="true" />
-<<<<<<< HEAD
-	<div class="container " style="min-height:100%;">
-=======
+
 	<div class="container font-nanum" style="min-height: 100%;">
 
->>>>>>> upstream/master
+
 		<div class="row">
 			<div class="col-7">
 				<span class="subtitle">경험과 지식을 공유하면 빨리 치유할 수 있습니다!</span>

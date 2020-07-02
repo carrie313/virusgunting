@@ -11,11 +11,6 @@
 
 	<div class="container" align="center">
 		<p style="font-size: 4rem; font-weight: 700;" class="font-shadow">
-<<<<<<< HEAD
-			After <span style="color: red;"> Hell <i class="fas fa-bomb"></i>
-			</span> , The <span style="color: #31B2A1;"> Doctor <i
-				class="fas fa-user-nurse"></i>
-=======
 			After
 			<span style="color: red;">
 				Hell
@@ -25,7 +20,7 @@
 			<span style="color: #31B2A1;">
 				Doctor
 				<i class="fas fa-user-nurse"></i>
->>>>>>> upstream/master
+
 			</span>
 		</p>
 		<img src="<c:url value='/images/home/donkey.gif'/>"
