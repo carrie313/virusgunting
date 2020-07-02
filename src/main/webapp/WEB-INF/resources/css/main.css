@@ -11,10 +11,15 @@
 =======
 @import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@700&display=swap');
->>>>>>> upstream/master
 
+>>>>>>> upstream/master
+@import url('https://fonts.googleapis.com/css2?family=New+Rocker&display=swap');
 
 @import url('https://fonts.googleapis.com/css2?family=Cantata+One&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=New+Rocker&family=Unkempt:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Carter+One&display=swap');
+
 .font-shadow{
 	 font-family: 'Shadows Into Light', cursive;
 	 
@@ -31,7 +36,8 @@
 .logotitle {
 	color: white;
 	font-weight: 100;
-	font-family: 'GUNGSUHCHE';
+
+font-family: 'Carter One', cursive;
 =======
 .font-nav{
 	font-family: 'Cantata One', serif;
@@ -39,7 +45,7 @@
 .logotitle {
 	color: white;
 	font-weight: 100; 
-	font-family: Roboto,"Helvetica Neue",sans-serif;
+	font-family: 'New Rocker', cursive;
 >>>>>>> upstream/master
 }
 
